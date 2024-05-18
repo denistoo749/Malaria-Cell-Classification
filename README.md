@@ -10,4 +10,4 @@ The data we're using is from One of the datasets under the Tensorflow Image libr
 * Upload the `cell_images.zip` file to the `Malaria Cell Classification` folder.
 * Unzip the uploaded data, `cell_images.zip` file into google drive:
 
-    `!unzip '/content/drive/MyDrive/Malaria Cell Classification/cell_images.zip' -d '/content/drive/MyDrive/Malaria Cell Classification/`
+    `!unzip '/content/drive/MyDrive/Malaria Cell Classification/cell_images.zip' -d '/content/drive/MyDrive/Malaria Cell Classification/'`
